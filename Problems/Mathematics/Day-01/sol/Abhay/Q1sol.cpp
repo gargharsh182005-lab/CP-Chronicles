@@ -21,6 +21,7 @@ Time complexity-->
 The time complexity is O(1)
 The space complexity is O(1)
 
+Submission link- https://codeforces.com/contest/1560/submission/355188467
 */
 //Soln->
 int main() {
